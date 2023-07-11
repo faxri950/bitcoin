@@ -1,0 +1,16 @@
+@use "_navbar";
+@use "_section";
+@use "_section-1";
+@use "_section-2";
+@use"_section-3";
+@use"_section-4";
+@use"_section-5";
+
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  
+}
